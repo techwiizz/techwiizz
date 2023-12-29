@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @techwiizz
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me-chat me up
 
 <!---
